@@ -1,2 +1,3 @@
 # Merge-Sort-Algorithm-
-Merge Sort Algorithm 
+Merge Sort Algorithm in python
+
